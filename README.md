@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FionaG26
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning c 
-- 💞️ I’m looking to collaborate on any c project
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on any back end project
 - 📫 How to reach me fionamuthoni18@gmail.com
 
 <!---
