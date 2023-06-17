@@ -6,9 +6,9 @@ This README provides an in-depth look into my coding activity and the programmin
 
 GitHub Stats
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=FionaG26&show_icons=true&theme=radical)](https://github.com/your-username)
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=FionaG26&show_icons=true&theme=radical)](https://github.com/FionaG26)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FionaG26&layout=compact&theme=radical)](https://github.com/your-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FionaG26&layout=compact&theme=radical)](https://github.com/FionaG26)
 
 ## Overview
 
