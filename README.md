@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm FionaG26</h1>
+<h1 align="center">Hi 👋, I'm Fiona Githaiga</h1>
 <h3 align="center">A passionate full stack software engineer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fionag26&label=Profile%20views&color=0e75b6&style=flat" alt="fionag26" /> </p>
