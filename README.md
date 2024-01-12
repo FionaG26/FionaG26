@@ -5,17 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fionag26" alt="fionag26" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/codegeniushq" target="blank"><img src="https://img.shields.io/twitter/follow/codegeniushq?logo=twitter&style=for-the-badge" alt="codegeniushq" /></a> </p>
+<p align="left"> <a href="(https://www.youtube.com/@fiona_githaiga)" target="blank"><img src="https://img.shields.io/twitter/follow/codegeniushq?logo=twitter&style=for-the-badge" alt="codegeniushq" /></a> </p>
 
 - 🔭 I’m currently working on **python**
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/FionaG26/TALKGPT-AI](https://github.com/FionaG26/TALKGPT-AI)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7052272727126155264](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7052272727126155264)
 
-- 💬 Ask me about **react, next and python**
+- 💬 Ask me about ** python**
 
 - 📫 How to reach me **fionamuthoni18@gmail.com**
 
