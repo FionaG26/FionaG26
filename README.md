@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fiona Githaiga</h1>
-<h3 align="center">A passionate full stack software engineer from Kenya</h3>
+<h1 align="center">Hi 👋, I'm Fiona Muthoni Githaiga</h1>
+<h3 align="center">Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fionag26&label=Profile%20views&color=0e75b6&style=flat" alt="fionag26" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Object relational mapping](https://github.com/FionaG26/Object_relational_mapping)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Ruby**
 
 - 🤝 I’m looking for help with [Chessgame](https://github.com/FionaG26/Chess_game)
 
