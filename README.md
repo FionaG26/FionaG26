@@ -9,10 +9,6 @@
 
 - 🔭 I’m currently working on [Object relational mapping](https://github.com/FionaG26/Object_relational_mapping)
 
-- 🌱 I’m currently learning **Ruby**
-
-- 🤝 I’m looking for help with [Chessgame](https://github.com/FionaG26/Chess_game)
-
 - 👨‍💻 All of my projects are available at [https://github.com/FionaG26](https://github.com/FionaG26)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7052272727126155264](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7052272727126155264)
