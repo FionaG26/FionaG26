@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on CLOJURE<br>
+🔭 I’m currently working on REACT<br>
 
 
 ## 🌐 Socials:
