@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on REACT<br>
+🔭 I’m currently working on Rscript Data Analysis <br>
 
 
 ## 🌐 Socials:
