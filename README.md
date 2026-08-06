@@ -1,5 +1,3 @@
-I understand — you mean **everything should be inside ONE copy-paste code block/cell**, not split into explanations. Use this exact one cell for your `README.md`:
-
 ````markdown
 # 🧬👩🏽‍🔬 Fiona Githaiga  
 ## Clinical Data Scientist | Bioinformatics Researcher | Molecular Biologist
