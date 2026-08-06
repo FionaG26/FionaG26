@@ -1,0 +1,22 @@
+<svg fill="none" viewBox="0 0 800 200" width="100%" xmlns="http://w3.org">
+  <style>
+    @keyframes pulse { 0%, 100% { opacity: 0.15; } 50% { opacity: 0.4; } }
+    @keyframes textGlow { 0%, 100% { text-shadow: 0 0 4px #00FFCC, 0 0 10px #00FFCC; } 50% { text-shadow: 0 0 8px #00FFCC, 0 0 20px #00FFCC; } }
+    .bg { fill: #0a0f1d; }
+    .grid { stroke: #00FFCC; stroke-width: 0.5; opacity: 0.15; animation: pulse 4s infinite ease-in-out; }
+    .title { font-family: 'Fira Code', monospace; font-weight: 800; font-size: 36px; fill: #00FFCC; animation: textGlow 3s infinite ease-in-out; }
+    .subtitle { font-family: 'Fira Code', monospace; font-size: 13px; fill: #8ab4f8; letter-spacing: 5px; }
+    .hud { font-family: 'Fira Code', monospace; font-size: 10px; fill: #00FFCC; opacity: 0.6; }
+  </style>
+  <rect width="800" height="200" class="bg" rx="6"/>
+  <g class="grid">
+    <path d="M 0,40 L 800,40 M 0,80 L 800,80 M 0,120 L 800,120 M 0,160 L 800,160" />
+    <path d="M 100,0 L 100,200 M 200,0 L 200,200 M 300,0 L 300,200 M 400,0 L 400,200 M 500,0 L 500,200 M 600,0 L 600,200 M 700,0 L 700,200" />
+  </g>
+  <path d="M 15 30 L 15 15 L 30 15 M 785 30 L 785 15 L 770 15 M 15 170 L 15 185 L 30 185 M 785 170 L 785 185 L 770 185" stroke="#00FFCC" stroke-width="1.5" fill="none"/>
+  <text x="25" y="30" class="hud">SYS.LOC // NAIROBI_NODE</text>
+  <text x="655" y="30" class="hud">CORE_STATUS // STABLE</text>
+  <circle cx="765" cy="26" r="3.5" fill="#00FFCC" />
+  <text x="400" y="100" text-anchor="middle" class="title">FIONA OS v4.0</text>
+  <text x="400" y="132" text-anchor="middle" class="subtitle">BIOMEDICAL SYSTEMS COMMAND CENTER</text>
+</svg>
