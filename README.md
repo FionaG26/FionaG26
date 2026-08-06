@@ -1,4 +1,3 @@
-````markdown
 # 🧬👩🏽‍🔬 Fiona Githaiga  
 ## Clinical Data Scientist | Bioinformatics Researcher | Molecular Biologist
 
