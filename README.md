@@ -58,14 +58,6 @@ Welcome to the central node. I bridge **molecular biology**, **computational bio
   <img src="https://vercel.app" width="48%" alt="Fiona's Top Languages" />
 </p>
 
----
-
-### 🐍 GENOMIC SEQUENCE REPLICATION
-
-<p align="center">
-  <img src="https://jsdelivr.net" alt="Genomic Snake Activity Tracker" />
-</p>
-
 <br />
 
 <p align="center">
