@@ -1,0 +1,5 @@
+<svg viewBox="0 0 800 30" width="100%" xmlns="http://w3.org">
+  <rect width="800" height="30" fill="#0a0f1d" rx="4"/>
+  <text x="15" y="18" font-family="Fira Code, monospace" font-size="10" fill="#8ab4f8">FIONA_OS // LOGS: ALL_SYSTEMS_OPERATIONAL</text>
+  <text x="785" y="18" font-family="Fira Code, monospace" font-size="10" fill="#00FFCC" text-anchor="end">v4.0.26</text>
+</svg>
