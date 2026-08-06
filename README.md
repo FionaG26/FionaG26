@@ -1,274 +1,97 @@
-# 🧬👩🏽‍🔬 Fiona Githaiga  
-## Clinical Data Scientist | Bioinformatics Researcher | Molecular Biologist
-
+# 🧬 FIONA OS v4.0 // BIOMEDICAL RESEARCH COMMAND CENTER
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=800&lines=🧬+Clinical+Data+Science;🤖+AI+for+Healthcare;🔬+Bioinformatics+Research;📊+Machine+Learning+%26+Statistics"/>
-
+  <img src="https://demolab.com" alt="Fiona OS Status" />
 </p>
-
 
 <p align="center">
-
-🧪 🔬 🧬 💻 🤖 📊 🏥
-
+  <img src="assets/banner.svg" width="100%" alt="Fiona OS Banner" />
 </p>
-
-
----
-
-## 🧑🏽‍🔬 About Me
-
 
 ```text
-          🧬 Biology
-
-              +
-
-          📊 Data Science
-
-              +
-
-          🤖 Artificial Intelligence
-
-              +
-
-          🏥 Medicine
-
-
-              =
-
-
-     Precision Healthcare 🚀
-````
-
-I am a **Clinical Data Scientist** with a background in **Molecular Biology, Immunology, Diagnostics, and Translational Research**.
-
-I build computational solutions that connect:
-
-🧫 Laboratory discoveries
-📈 Clinical datasets
-🤖 Machine learning models
-🧬 Biological insights
-
----
-
-# 🔬 Research Identity
-
-🧬 Precision Medicine
-🧫 Immunology
-🧬 Cancer Biology
-🩺 Clinical Analytics
-🔍 Biomarker Discovery
-🧪 Molecular Diagnostics
-📊 Biomedical Data Science
-
----
-
-# 💻 Data Science Toolkit
-
-## 🐍 Programming
-
-![Python](https://img.shields.io/badge/Python-Data%20Science-blue?style=for-the-badge\&logo=python)
-
-![R](https://img.shields.io/badge/R-Statistics-blue?style=for-the-badge\&logo=r)
-
-![SQL](https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge\&logo=mysql)
-
----
-
-# 🤖 Machine Learning Workflow
-
-```mermaid
-flowchart LR
-
-A[🩺 Clinical Data] --> B[🧹 Data Cleaning]
-
-B --> C[📊 Exploratory Analysis]
-
-C --> D[⚙️ Feature Engineering]
-
-D --> E[🤖 Machine Learning]
-
-E --> F[🏥 Clinical Prediction]
-
-F --> G[🧬 Healthcare Insights]
-
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║                 FIONA OS v4.0                      ║
+║                                                    ║
+║      Biomedical Research Command Center            ║
+║                                                    ║
+╠════════════════════════════════════════════════════╣
+║ Biotechnology / Genetics ███████████ 100%          ║
+║ Data Science & Analytics ███████████ 100%          ║
+║ Pipeline Automation...... ███████████ 100%          ║
+║ Causal Inference ........ ███████████ 100%          ║
+║ Curiosity............... ∞                         ║
+╚════════════════════════════════════════════════════╝
 ```
-
----
-
-# 🧬 Featured Projects
-
-## ❤️ Cardiovascular Disease Causal Inference
-
-```
-Lifestyle Factors 🚬🏃
-
-          ↓
-
-Clinical Risk ❤️
-
-          ↓
-
-DAG Models 🔗
-
-          ↓
-
-Propensity Matching 📊
-
-          ↓
-
-Causal Conclusions 🧠
-```
-
-Tools:
-
-```
-R
-tidyverse
-ggplot2
-MatchIt
-Causal Inference
-```
-
----
-
-## 🧬 Clinical Genomics Explorer
-
-```
-DNA 🧬
-
- ↓
-
-RNA 🧫
-
- ↓
-
-Expression Data 📊
-
- ↓
-
-Machine Learning 🤖
-
- ↓
-
-Biomarkers 🔎
-```
-
-Tools:
-
-```
-R
-Python
-Bioconductor
-GEO
-Single-cell Analysis
-```
-
----
-
-## 📊 Interactive Clinical Data Visualization
-
-```
-        Patient Data
-
-             👩🏽‍⚕️
-
-        📈 📊 📉
-
-             ↓
-
-       Clinical Insight
-
-```
-
-Tools:
-
-```
-GWalkR
-ggplot2
-Tableau
-Plotly
-```
-
----
-
-# 🧰 Technology Stack
-
-| Field            | Tools              |
-| ---------------- | ------------------ |
-| Programming      | Python 🐍 R 📊 SQL |
-| Statistics       | R Stats, SciPy     |
-| Machine Learning | Scikit-learn       |
-| Visualization    | ggplot2, Tableau   |
-| Bioinformatics   | Bioconductor       |
-| Version Control  | GitHub             |
-
----
-
-# 📚 Currently Learning
-
-🌱 Deep Learning for Healthcare
-
-🌱 Single-cell RNA Sequencing
-
-🌱 Multi-omics Integration
-
-🌱 AI-assisted Diagnosis
-
-🌱 Advanced Causal Inference
-
----
-
-# 📈 GitHub Analytics
 
 <p align="center">
+  <img src="assets/divider.svg" width="100%" alt="Divider" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=FionaG26&show_icons=true&theme=tokyonight"/>
+### 📡 SYSTEM OVERVIEW & MISSION DIRECTIVES
 
+Welcome to the central node. I bridge **molecular biology**, **computational biochemistry**, and **predictive data science** to decode complex living frameworks.
+
+- **🔬 Current Focus:** Causal inference methodologies, multi-omic sequence engineering, and high-throughput diagnostic pipelines.
+- **🧪 Core Domain:** Functional genomics, clinical trial data structuring, and statistical modeling.
+- **🌱 Active R&D:** Building self-contained testing automation scripts and modern container frameworks.
+
+<p align="center">
+  <img src="assets/terminal.svg" width="100%" alt="System Terminal Terminal" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FionaG26&theme=tokyonight"/>
-
+  <img src="assets/divider.svg" width="100%" alt="Divider" />
 </p>
 
----
-
-# 🧪 Scientist Mode Activated
-
-```
-        👩🏽‍🔬
-       /|\
-      / | \
-     🧬 💻 📊
-
-
-"Where biology meets data"
-
-```
-
----
-
-# 🤝 Connect
-
-💼 LinkedIn:
-
-[https://www.linkedin.com/in/fiona-githaiga-3282aa194/](https://www.linkedin.com/in/fiona-githaiga-3282aa194/)
-
-💻 GitHub:
-
-[https://github.com/FionaG26](https://github.com/FionaG26)
-
----
+### 🛠️ KERNEL MODULES & TECH STACK
 
 <p align="center">
+  <img src="assets/dna.svg" width="120" alt="DNA Helix Core" />
+</p>
 
-⭐ Building the future of healthcare using
+```microsyntax
+[🧬 BIOSCIENCE] -> Python | R | Bioconductor | Biopython
+[📊 ANALYTICS]  -> Causal Inference | Pandas | NumPy | SciPy | Ggplot2
+[🚀 PIPELINES]  -> Docker | GitHub Actions | Bash Shell | Pytest | Git
+[⚙️ MODERN WEB] -> FastAPI | Flask | SQL Databases | Web APIs
+```
 
-🧬 Biology + 📊 Data + 🤖 AI
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="R" />
+  <img src="https://shields.io" alt="Docker" />
+  <img src="https://shields.io" alt="FastAPI" />
+  <img src="https://shields.io" alt="Git" />
+</p>
 
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="Divider" />
+</p>
+
+### 📊 SYSTEM PERFORMANCE METRICS
+
+<p align="center">
+  <img src="https://vercel.app" width="48%" alt="Fiona's Stats" />
+  <img src="https://vercel.app" width="48%" alt="Fiona's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="Divider" />
+</p>
+
+### 🐍 GENOMIC SEQUENCE REPLICATION
+
+<p align="center">
+  <img src="https://githubusercontent.com" alt="Genomic Snake Activity Tracker" />
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Footer Diagnostics" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://komarev.com" alt="Terminal Accesses Counter" />
 </p>
